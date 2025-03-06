@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_visualization">
+    <par_visualization action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <macroponent display_value="Donut">a2b0596cec6b9d49dd1ff9bf76b5084b</macroponent>
+        <name>NeedIt Requests by Type</name>
+        <properties>{"selectedElements":[],"showDataLabels":true,"dataLabelsType":"value","truncationType":"middle","showRegister":false,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":false,"showRegisterValue":false,"legendHorizontalAlignment":"center","legendExpandToFit":false,"showRegisterPercentage":false,"newReporting":false,"additionalGroupByConfig":[{"id":"u_request_type","label":"Request type"},{"id":"u_what_needed","label":"What needed"},{"id":"u_requested_for","label":"Requested for"}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"contextMenuActions":[],"headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"sortByOrder":"desc","showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":false,"showMetricLabel":null,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"configPropModifiers":{},"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":null,"period":null,"useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"filterConfigurations":[],"componentId":"9f8sa00y","configVersion":"23.0.0-ci-SNAPSHOT","sortBy":"value","showTotalValue":null,"colorConfig":{"type":"palette","palette":"32510950409d124d51307788b0c46c48"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"NeedIt","sourceType":"table","tableOrViewName":"x_58872_needit_needit","filterQuery":"","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzU4ODcyX25lZWRpdF9uZWVkaXQxNzQxMjQzMjE1MjI5","dataCategories":["trend","group","simple"]}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGV4XzU4ODcyX25lZWRpdF9uZWVkaXQxNzQxMjQzMjE1MjI5","groupByField":"u_requested_for","isRange":false,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":true,"hideZeroValues":null,"disableRanges":false}],"metrics":[{"dataSource":"dGFibGV4XzU4ODcyX25lZWRpdF9uZWVkaXQxNzQxMjQzMjE1MjI5","id":"ZEdGaWJHVjRYelU0T0RjeVgyNWxaV1JwZEY5dVpXVmthWFF4TnpReE1qUXpNakUxTWpJNTE3NDEyNDMyMTc3NTI=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"headerTitle":"Request  Type - Needit","legendMaxItemWidth":42,"maxLabelSize":42,"chartInteractionEnabled":true,"description":"","dataCategory":"group","trendBy":null}</properties>
+        <requested_by/>
+        <scheduled_count>0</scheduled_count>
+        <sys_class_name>par_visualization</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-06 06:45:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fd05136ec3802210369cb8ddd40131b3</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>NeedIt Requests by Type</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_visualization_fd05136ec3802210369cb8ddd40131b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-06 09:18:08</sys_updated_on>
+        <type>Donut</type>
+    </par_visualization>
+</record_update>
